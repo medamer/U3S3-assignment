@@ -10,4 +10,4 @@ def index():
 
 @home_routes.route("/about")
 def about():
-    return "About me:", "\n", "My name is Mohamed Edamer, I am Data scientist in Lambda school."
+    return "About me:  My name is Mohamed Edamer, I am Data scientist in Lambda school."
